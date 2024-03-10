@@ -279,7 +279,7 @@ a:visited {
 }
 .girl {
   background-color: var(--color-red);
-  background: url(/src/img/Girl.png) no-repeat center;
+  background: url(/src/img/girl.jpg) no-repeat center;
   width: 452px;
   height: 702px;
   position: relative;
